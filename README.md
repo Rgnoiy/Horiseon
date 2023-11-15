@@ -20,4 +20,4 @@ Then the website must meet accessibility standards:
 * Do title elements contain a concise, descriptive title?
 * Has the web application been deployed?
 
-# https://rgnoiy.github.io/Horiseon/
+# https://rgnoiy.github.io/Horiseon-demo-site/
