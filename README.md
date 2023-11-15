@@ -18,3 +18,4 @@ Then the website must meet accessibility standards:
 * Do image and icon elements contain accessible `alt` attributes?
 * Do heading attributes fall in sequential order?
 * Do title elements contain a concise, descriptive title?
+* Has the web application been deployed?
